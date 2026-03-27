@@ -8,7 +8,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Experience the intense and sweet triple mango flavor with the TP1000 device.',
     retailPrice: 14.99,
     wholesalePrice: 7.50,
-    images: ['/images/lostmarytp1000.jpg'],
+    images: ['/lostmarytp1000.jpg'],
     category: 'Others'
   },
   {
@@ -18,7 +18,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A versatile and eco-friendly device offering 4 flavors in 1 compact design.',
     retailPrice: 19.99,
     wholesalePrice: 9.99,
-    images: ['/images/lostmary4in1.jpg'],
+    images: ['/lostmary4in1.jpg'],
     category: 'Others'
   },
   {
@@ -28,7 +28,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Refreshing pineapple with a cool icy finish in the classic BM600 design.',
     retailPrice: 7.99,
     wholesalePrice: 3.50,
-    images: ['/images/lostmarybm600.jpg'],
+    images: ['/lostmarybm600.jpg'],
     category: 'BM Series'
   },
   {
@@ -38,7 +38,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Sweet strawberry blended with a chilling ice sensation.',
     retailPrice: 7.99,
     wholesalePrice: 3.50,
-    images: ['/images/lostmarybm600prefillpodkit.jpg', '/images/lostmarybm600prefillpodkit2.jpg'],
+    images: ['/lostmarybm600prefillpodkit.jpg', '/lostmarybm600prefillpodkit2.jpg'],
     category: 'BM Series'
   },
   {
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A mysterious and fruity blend with the BM600 Turbo edition.',
     retailPrice: 8.99,
     wholesalePrice: 4.00,
-    images: ['/images/lostmarybm600turbo.jpg'],
+    images: ['/lostmarybm600turbo.jpg'],
     category: 'BM Series'
   },
   {
@@ -58,7 +58,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Zesty lemon and lime combination for a refreshing vape.',
     retailPrice: 8.99,
     wholesalePrice: 4.00,
-    images: ['/images/lostmarybm600s.jpg'],
+    images: ['/lostmarybm600s.jpg'],
     category: 'BM Series'
   },
   {
@@ -68,7 +68,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A delightful mix of cherry, peach, and lemonade in a high-capacity device.',
     retailPrice: 18.99,
     wholesalePrice: 9.00,
-    images: ['/images/lostmarybm5000.jpg'],
+    images: ['/lostmarybm5000.jpg'],
     category: 'BM Series'
   },
   {
@@ -78,7 +78,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'An exotic mix of pineapple, dragonfruit, and grapefruit with an incredible 16000 puff capacity.',
     retailPrice: 24.99,
     wholesalePrice: 12.50,
-    images: ['/images/lostmarybm16000.jpg'],
+    images: ['/lostmarybm16000.jpg'],
     category: 'BM Series'
   },
   {
@@ -88,7 +88,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Premium Glayce device offering smooth and consistent vapor production.',
     retailPrice: 15.99,
     wholesalePrice: 8.00,
-    images: ['/images/lostmaryglayce.jpg'],
+    images: ['/lostmaryglayce.jpg'],
     category: 'Others'
   },
   {
@@ -98,7 +98,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Sweet and tangy rainbow sherbet flavor in the massive MO20000 Pro device.',
     retailPrice: 29.99,
     wholesalePrice: 15.00,
-    images: ['/images/lostmarymo20000pro.jpg'],
+    images: ['/lostmarymo20000pro.jpg'],
     category: 'MO Series'
   },
   {
@@ -108,7 +108,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Juicy summer grape flavor with the MT15000 Turbo smart device.',
     retailPrice: 24.99,
     wholesalePrice: 12.50,
-    images: ['/images/lostmarymt15000turbo.jpg'],
+    images: ['/lostmarymt15000turbo.jpg'],
     category: 'Others'
   },
   {
@@ -118,7 +118,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A sleek, clear edition turbo device with a smart display.',
     retailPrice: 22.99,
     wholesalePrice: 11.00,
-    images: ['/images/lostmaryturboclear.jpg'],
+    images: ['/lostmaryturboclear.jpg'],
     category: 'Others'
   },
   {
@@ -128,7 +128,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Refreshing watermelon ice flavor in a 20mg nicotine salt e-liquid.',
     retailPrice: 4.99,
     wholesalePrice: 2.50,
-    images: ['/images/lostmarynicsalt.jpg'],
+    images: ['/lostmarynicsalt.jpg'],
     category: 'E-liquid'
   },
   {
@@ -138,7 +138,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Lightweight and compact Tappo Air prefilled pod system.',
     retailPrice: 10.99,
     wholesalePrice: 5.50,
-    images: ['/images/lostmarytappoair.jpg'],
+    images: ['/lostmarytappoair.jpg'],
     category: 'Pod System'
   },
   {
@@ -148,7 +148,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Elegant silver finish Tappo prefilled pod system.',
     retailPrice: 12.99,
     wholesalePrice: 6.50,
-    images: ['/images/lostmarytappo.jpg'],
+    images: ['/lostmarytappo.jpg'],
     category: 'Pod System'
   },
   {
@@ -158,7 +158,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Enhanced blue raspberry ice flavor for a bold vaping experience.',
     retailPrice: 14.99,
     wholesalePrice: 7.50,
-    images: ['/images/lostmarybluerazzice.jpg'],
+    images: ['/lostmarybluerazzice.jpg'],
     category: 'Pod System'
   },
   {
@@ -168,7 +168,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Advanced dual mesh pod system for superior flavor and vapor production.',
     retailPrice: 16.99,
     wholesalePrice: 8.50,
-    images: ['/images/lostmaryxperpod.jpg'],
+    images: ['/lostmaryxperpod.jpg'],
     category: 'Pod System'
   },
   {
@@ -178,7 +178,7 @@ export const PRODUCTS: Product[] = [
     longDesc: '20 mL liquid capacity, dual power modes, and a flavor enhancement mechanism.',
     retailPrice: 8.99,
     wholesalePrice: 4.00,
-    images: ['/images/lostmaryultrasonic35k.jpg'],
+    images: ['/lostmaryultrasonic35k.jpg'],
     category: 'Others'
   },
   {
@@ -188,7 +188,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A crazy blend of mixed berries in the BM3500 device.',
     retailPrice: 14.99,
     wholesalePrice: 7.50,
-    images: ['/images/lostmarybm3500.jpg'],
+    images: ['/lostmarybm3500.jpg'],
     category: 'BM Series'
   },
   {
@@ -198,7 +198,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Sweet strawberry and tart kiwi in the QM600 device.',
     retailPrice: 7.99,
     wholesalePrice: 3.50,
-    images: ['/images/lostmaryqm600.jpg'],
+    images: ['/lostmaryqm600.jpg'],
     category: 'Others'
   },
   {
@@ -208,7 +208,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Crisp and refreshing mountain mint flavor in the MO10000 device.',
     retailPrice: 21.99,
     wholesalePrice: 11.00,
-    images: ['/images/lostmarymo10000.jpg'],
+    images: ['/lostmarymo10000.jpg'],
     category: 'MO Series'
   },
   {
@@ -218,7 +218,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'The standard Xper pod device for a reliable vaping experience.',
     retailPrice: 14.99,
     wholesalePrice: 7.50,
-    images: ['/images/lostmaryxper1.jpg'],
+    images: ['/lostmaryxper1.jpg'],
     category: 'Pod System'
   },
   {
@@ -228,7 +228,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'Premium Nera device with a sleek design and excellent performance.',
     retailPrice: 19.99,
     wholesalePrice: 10.00,
-    images: ['/images/lostmarynera15k.jpg'],
+    images: ['/lostmarynera15k.jpg'],
     category: 'Others'
   },
   {
@@ -238,7 +238,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'fully rechargeable 800mAh battery in just under 45 minutes.',
     retailPrice: 19.99,
     wholesalePrice: 10.00,
-    images: ['/images/lostmarynera30kpureview.jpg'],
+    images: ['/lostmarynera30kpureview.jpg'],
     category: 'Others'
   }
 ];
