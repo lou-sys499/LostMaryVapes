@@ -18,7 +18,7 @@ export const PRODUCTS: Product[] = [
     longDesc: 'A versatile and eco-friendly device offering 4 flavors in 1 compact design.',
     retailPrice: 19.99,
     wholesalePrice: 9.99,
-    images: ['public/images/lostmary4in1.jpg'],
+    images: ['/images/lostmary4in1.jpg'],
     category: 'Others'
   },
   {
