@@ -2,9 +2,9 @@ import React, { useState, useRef, useEffect } from 'react';
 import { motion } from 'motion/react';
 
 const BANNERS = [
-  { id: 1, src: 'images/banner001.jpg', alt: 'Lost Mary Premium Vapes - Banner 1' },
-  { id: 2, src: 'images/banner009.jpg', alt: 'New Arrivals - Banner 2' },
-  { id: 3, src: 'images/banner011.jpg', alt: 'Special Offers - Banner 3' },
+  { id: 1, src: '/images/banner001.jpg', alt: 'Lost Mary Premium Vapes - Banner 1' },
+  { id: 2, src: '/images/banner009.jpg', alt: 'New Arrivals - Banner 2' },
+  { id: 3, src: '/images/banner011.jpg', alt: 'Special Offers - Banner 3' },
 ];
 
 export function BannerSlider() {
