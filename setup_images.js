@@ -28,8 +28,8 @@ const products = [
   { name: 'BM600S Maryturbo Ice', file: 'BM600S_Maryturbo_Ice.jpg', category: 'BM Series', notes: '' },
   { name: 'BM3500 Mad Blue', file: 'BM3500_Mad_Blue.jpg', category: 'BM Series', notes: '' },
   { name: 'QM600 Strawberry Kiwi', file: 'QM600_Strawberry_Kiwi.jpg', category: 'Others', notes: '' },
-  { name: 'MO10000 Mountain Mint', file: 'MO10000_Mountain_Mint.jpg', category: 'MO Series', notes: '' },
-  { name: 'Xper Device', file: 'public/images/lostmaryxper1.jpg', category: 'Pod System', notes: '' },
+  { name: 'MO10000 Mountain Mint', file: 'lostmarymo10000.jpg', category: 'MO Series', notes: '' },
+  { name: 'Xper Device', file: './lostmaryxper1.jpg', category: 'Pod System', notes: '' },
   { name: 'Nera', file: 'Nera.jpg', category: 'Others', notes: '' },
   { name: 'BM6000 Fizzy Cherry', file: 'BM6000_Fizzy_Cherry.jpg', category: 'BM Series', notes: '' }
 ];
