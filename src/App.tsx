@@ -10,6 +10,7 @@ import { Home } from './components/Home';
 import { Shop } from './components/Shop';
 import { Checkout } from './components/Checkout';
 import { Footer } from './components/Footer';
+import { FloatingWhatsApp } from './components/FloatingWhatsApp';
 import { CartDrawer } from './components/CartDrawer';
 import { ProductModal } from './components/ProductModal';
 import { Product, CartItem, ViewState } from './types';
@@ -96,6 +97,7 @@ export default function App() {
       </main>
 
       <Footer />
+      <FloatingWhatsApp />
 
       {isCartOpen && (
         <CartDrawer 

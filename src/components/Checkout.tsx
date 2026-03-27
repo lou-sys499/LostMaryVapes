@@ -85,7 +85,7 @@ export function Checkout({ cart, clearCart, setView }: CheckoutProps) {
       orderDetails += `*Total:* $${total.toFixed(2)}\n`;
 
       const encodedMessage = encodeURIComponent(orderDetails);
-      const whatsappUrl = `https://wa.me/237657484617?text=${encodedMessage}`;
+      const whatsappUrl = `https://wa.me/16674715870?text=${encodedMessage}`;
       
       window.open(whatsappUrl, '_blank');
 
