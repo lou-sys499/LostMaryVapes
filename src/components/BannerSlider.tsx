@@ -2,9 +2,9 @@ import React, { useState, useRef, useEffect } from 'react';
 import { motion } from 'motion/react';
 
 const BANNERS = [
-  { id: 1, src: 'https://lh3.googleusercontent.com/d/1_wVJbpdxkVtX0X3KYEgBmVUhjMahmOgN', alt: 'Lost Mary Premium Vapes - Banner 1' },
-  { id: 2, src: 'https://lh3.googleusercontent.com/d/1xoevbKu3okWowRRDZwu6yx6zPOKgJBmz', alt: 'New Arrivals - Banner 2' },
-  { id: 3, src: 'https://lh3.googleusercontent.com/d/19yvuKgREGM_b3A7X5hmtARW0d5s8qZci', alt: 'Special Offers - Banner 3' },
+  { id: 1, src: 'https://drive.google.com/thumbnail?id=1_wVJbpdxkVtX0X3KYEgBmVUhjMahmOgN&sz=w1200', alt: 'Lost Mary Premium Vapes - Banner 1' },
+  { id: 2, src: 'https://drive.google.com/thumbnail?id=1xoevbKu3okWowRRDZwu6yx6zPOKgJBmz&sz=w1200', alt: 'New Arrivals - Banner 2' },
+  { id: 3, src: 'https://drive.google.com/thumbnail?id=19yvuKgREGM_b3A7X5hmtARW0d5s8qZci&sz=w1200', alt: 'Special Offers - Banner 3' },
 ];
 
 export function BannerSlider() {
